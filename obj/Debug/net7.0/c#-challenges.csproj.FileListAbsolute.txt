@@ -1,0 +1,15 @@
+/Users/bahar/Desktop/c#-challenges/bin/Debug/net7.0/c#-challenges
+/Users/bahar/Desktop/c#-challenges/bin/Debug/net7.0/c#-challenges.deps.json
+/Users/bahar/Desktop/c#-challenges/bin/Debug/net7.0/c#-challenges.runtimeconfig.json
+/Users/bahar/Desktop/c#-challenges/bin/Debug/net7.0/c#-challenges.dll
+/Users/bahar/Desktop/c#-challenges/bin/Debug/net7.0/c#-challenges.pdb
+/Users/bahar/Desktop/c#-challenges/obj/Debug/net7.0/c#-challenges.csproj.AssemblyReference.cache
+/Users/bahar/Desktop/c#-challenges/obj/Debug/net7.0/c#-challenges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahar/Desktop/c#-challenges/obj/Debug/net7.0/c#-challenges.AssemblyInfoInputs.cache
+/Users/bahar/Desktop/c#-challenges/obj/Debug/net7.0/c#-challenges.AssemblyInfo.cs
+/Users/bahar/Desktop/c#-challenges/obj/Debug/net7.0/c#-challenges.csproj.CoreCompileInputs.cache
+/Users/bahar/Desktop/c#-challenges/obj/Debug/net7.0/c#-challenges.dll
+/Users/bahar/Desktop/c#-challenges/obj/Debug/net7.0/refint/c#-challenges.dll
+/Users/bahar/Desktop/c#-challenges/obj/Debug/net7.0/c#-challenges.pdb
+/Users/bahar/Desktop/c#-challenges/obj/Debug/net7.0/c#-challenges.genruntimeconfig.cache
+/Users/bahar/Desktop/c#-challenges/obj/Debug/net7.0/ref/c#-challenges.dll

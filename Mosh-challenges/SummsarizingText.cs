@@ -1,16 +1,11 @@
 using System;
-
-namespace Summarizing
+using System.Collections.Generic;
+namespace CSharpExercises
 {
-  class Program
+  public class Program
   {
-    static void Main(string[] args)
-    {
-      string s = "The quick brown fox jumps over the lazy dog.";
-      var summary = SummarizingText(s, 10);
-      System.Console.WriteLine(summary);
-    }
-    static string SummarizingText(string text, int maxLength)
+
+    public static string SummarizingText(string text, int maxLength)
     {
       if (text.Length < maxLength)
         return text;
